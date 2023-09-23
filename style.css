@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(154, 115, 115);
+    padding: 20px;
+}
+
+.title {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    width: 350px;
+    height: auto;
+    border: 2px solid rgb(255, 215, 0);
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.desc-title {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#img-div {
+    padding: 100px;
+    margin: 0;
+    background-color: black;
+    border-radius: 10px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 10px auto;
+}
+figcaption {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+
+h3 {
+    margin: 50px 20px;
+}
+
+
+blockquote {
+   font-weight: 600;
+}
+
+ul {
+    margin: 0 100px;
+}
+
+ul li {
+    margin: 50px;
+}
+
+li p {
+    font-size: 1.2em;
+}
+
+.cita {
+    font-size: 1.2em;
+    margin: 100px;
+}
+
+.info {
+    text-align: center;
+    font-size: 1.1em;
+}
